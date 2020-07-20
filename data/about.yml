@@ -5,15 +5,13 @@ work_process:
   item:
   - title : "Research and Plan"
     icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    
     
   - title : "Design and Develop"
     icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
+
   - title : "Deliver"
     icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
 # team
@@ -21,17 +19,17 @@ team:
   enable: true
   title : "My Team"
   team_member:
-    - title : "Jack Schenziwe"
-      image : "images/team/member-1.png"
-      designation : "Project Manager"
+    - title : "Ritick Sarkar"
+      image : "images/team/Ritwick.jpg"
+      designation : "UI & UX Designer"
       
-    - title : "Julias Carlie"
-      image : "images/team/member-2.png"
-      designation : "Web Developer"
+    - title : "Sankhadeep Dutta"
+      image : "images/team/Sankhadeep.jpg"
+      designation : "Junior Data Scientist"
       
-    - title : "John Doe"
-      image : "images/team/member-3.png"
-      designation : "Designer"
+    - title : "Surya Ghosh"
+      image : "images/team/Surya.jpg"
+      designation : "Business Designer"
 
 
 # client logo slider
