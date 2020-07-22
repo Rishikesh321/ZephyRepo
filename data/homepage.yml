@@ -97,9 +97,9 @@ testimonial:
   item:
     
     - name : "Surya Ghosh"
-      image : "images/testimonial/client-1.png"
+      image : "images/testimonial/Surya.jpg"
       designation : "Business Designer"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      content : "I highly recommend Rishikesh Chakraborty. Very few quant people possess the total package:  excellent credentials, strong statistical and data mining skills, the initiative to anticipate client needs, compelling and concise communications, strong client management skills, and a results-driven mindset. They've led numerous projects that have helped our company maximize marketing efforts and understand our customers better. In all, the quality has been superior and their client-service attitudes are tremendous"
       
       
 # client logo slider
