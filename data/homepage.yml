@@ -101,6 +101,11 @@ testimonial:
       designation : "Business Designer"
       content : "I highly recommend Rishikesh Chakraborty. Very few quant people possess the total package:  excellent credentials, strong statistical and data mining skills, the initiative to anticipate client needs, compelling and concise communications, strong client management skills, and a results-driven mindset. They've led numerous projects that have helped our company maximize marketing efforts and understand our customers better. In all, the quality has been superior and their client-service attitudes are tremendous"
       
+    - name : "Bratin Das"
+      image : "images/testimonial/BratinDas1.jpg"
+      designation : "Session Designer"
+      content : "I highly recommend Rishikesh Chakraborty.Technically Very competent, Excellent communication, Very good trainer"
+      
       
 # client logo slider
 clients_logo_slider:
