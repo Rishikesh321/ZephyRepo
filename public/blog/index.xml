@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Kross</title>
-    <link>/blog/</link>
-    <description>Recent content in Blog on Kross</description>
+    <title>Blog on My Story</title>
+    <link>/rishikeshchakraborty.netlify.app/blog/</link>
+    <description>Recent content in Blog on My Story</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2020 12:51:34 +0600</lastBuildDate>
     
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/rishikeshchakraborty.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tidymodels by Rishikesh Chakraborty</title>
-      <link>/blog/post-1/</link>
+      <link>/rishikeshchakraborty.netlify.app/blog/post-1/</link>
       <pubDate>Thu, 23 Jul 2020 12:51:34 +0600</pubDate>
       
-      <guid>/blog/post-1/</guid>
+      <guid>/rishikeshchakraborty.netlify.app/blog/post-1/</guid>
       <description>Much like the tidyverse consists of many core packages, such as ggplot2 and dplyr, tidymodels also consists of several core packages, including</description>
     </item>
     
     <item>
       <title>Decision Tree by Rishikesh Chakraborty</title>
-      <link>/blog/post-2/</link>
+      <link>/rishikeshchakraborty.netlify.app/blog/post-2/</link>
       <pubDate>Wed, 22 Jul 2020 12:14:34 +0600</pubDate>
       
-      <guid>/blog/post-2/</guid>
+      <guid>/rishikeshchakraborty.netlify.app/blog/post-2/</guid>
       <description>What is Decision Trees?
 Decision Trees are a popular Data Mining technique that makes use of a tree-like structure to deliver consequences based on input decisions.</description>
     </item>
     
     <item>
       <title>Cluster Analysis by Rishikesh Chakraborty</title>
-      <link>/blog/post-3/</link>
+      <link>/rishikeshchakraborty.netlify.app/blog/post-3/</link>
       <pubDate>Tue, 21 Jul 2020 12:14:34 +0600</pubDate>
       
-      <guid>/blog/post-3/</guid>
+      <guid>/rishikeshchakraborty.netlify.app/blog/post-3/</guid>
       <description>What is Cluster Analysis??
 Cluster analysis is a class of techniques that are used to classify objects or cases into relative groups called clusters.</description>
     </item>
     
     <item>
       <title>Amazon increase income 1.5 Million</title>
-      <link>/blog/post-4/</link>
+      <link>/rishikeshchakraborty.netlify.app/blog/post-4/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>/blog/post-4/</guid>
+      <guid>/rishikeshchakraborty.netlify.app/blog/post-4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Amazon increase income 1.5 Million</title>
-      <link>/blog/post-5/</link>
+      <link>/rishikeshchakraborty.netlify.app/blog/post-5/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>/blog/post-5/</guid>
+      <guid>/rishikeshchakraborty.netlify.app/blog/post-5/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Amazon increase income 1.5 Million</title>
-      <link>/blog/post-6/</link>
+      <link>/rishikeshchakraborty.netlify.app/blog/post-6/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>/blog/post-6/</guid>
+      <guid>/rishikeshchakraborty.netlify.app/blog/post-6/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/blog/2015-07-23-r-rmarkdown/</link>
+      <link>/rishikeshchakraborty.netlify.app/blog/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/blog/2015-07-23-r-rmarkdown/</guid>
+      <guid>/rishikeshchakraborty.netlify.app/blog/2015-07-23-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents.</description>
     </item>
     
