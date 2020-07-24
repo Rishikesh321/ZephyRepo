@@ -1,9 +1,9 @@
 # default configuration
-baseURL = "https://rishikeshchakraborty.netlify.app/"
+baseURL = "rishikeshchakraborty.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "Rishi"
 
 # css plugins
 [[params.plugins.css]]
