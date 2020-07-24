@@ -112,8 +112,8 @@ clients_logo_slider:
   enable : true
   item:
   
-    - logo : "images/clients-logo/client-logo-1.jpg"
-      URL : "https://www.tata.com/"
+    - logo : "images/clients-logo/tata power.jpg"
+      URL : "https://www.tatapower.com/"
       
     - logo : "images/clients-logo/client-logo-2.png"
       URL : "https://www.ril.com/"

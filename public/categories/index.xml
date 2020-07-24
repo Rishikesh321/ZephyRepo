@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My Story</title>
-    <link>/rishikeshchakraborty.netlify.app/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on My Story</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
     
-	<atom:link href="/rishikeshchakraborty.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>branding</title>
-      <link>/rishikeshchakraborty.netlify.app/categories/branding/</link>
+      <link>/categories/branding/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>/rishikeshchakraborty.netlify.app/categories/branding/</guid>
+      <guid>/categories/branding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>/rishikeshchakraborty.netlify.app/categories/design/</link>
+      <link>/categories/design/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>/rishikeshchakraborty.netlify.app/categories/design/</guid>
+      <guid>/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>/rishikeshchakraborty.netlify.app/categories/development/</link>
+      <link>/categories/development/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>/rishikeshchakraborty.netlify.app/categories/development/</guid>
+      <guid>/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>illustration</title>
-      <link>/rishikeshchakraborty.netlify.app/categories/illustration/</link>
+      <link>/categories/illustration/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>/rishikeshchakraborty.netlify.app/categories/illustration/</guid>
+      <guid>/categories/illustration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/rishikeshchakraborty.netlify.app/categories/r/</link>
+      <link>/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/rishikeshchakraborty.netlify.app/categories/r/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     
