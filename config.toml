@@ -3,11 +3,8 @@ baseURL = "rishikeshchakraborty.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-<<<<<<< HEAD
 title = "My Story"
-=======
-title = "Rishi"
->>>>>>> d7a63f77ead1837099c1b894b1e58eac6e6f4bc9
+
 
 # css plugins
 [[params.plugins.css]]
