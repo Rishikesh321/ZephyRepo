@@ -58,11 +58,11 @@ education:
   enable : true
   title : "Education"
   item:
-    - title : "Btech in Power Engineering"
+    - title : "B.tech in Power Engineering"
       year : "2020"
       academy : "National Power Training institute (Eastern Region)"
       
-    - title : "Higher Secondary Certificat"
+    - title : "Higher Secondary Certificate"
       year : "2016"
       academy : "Guru Teg Bahadur Public School"
       
