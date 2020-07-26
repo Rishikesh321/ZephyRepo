@@ -108,15 +108,19 @@ testimonial:
       
       
 # client logo slider
+
 clients_logo_slider:
   enable : true
   item:
-  
-    - logo : "images/clients-logo/tata power.jpg"
+    - logo : "images/clients-logo/tata_power.png"
       URL : "https://www.tatapower.com/"
       
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "https://www.ril.com/"
+    - logo : "images/clients-logo/reliance_power.png"
+      URL : "https://www.reliancepower.co.in/"
+    
+    - logo : "images/clients-logo/euphori.png"
+      URL : "#"
+
 
 # blog
 blog:
