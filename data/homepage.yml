@@ -1,11 +1,11 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Rishikesh, <br> Data Scientist"
+  title : "Hi! I’m <br> Rishikesh, <br> Data Analyst"
 
 # about
 about:
   enable : true
-  content : "I'm a junior data scientist with over 1 year of experience working in the field of IT and Data analytics, providing valuable expertise to start-up businesses."
+  content : "I'm a junior data analyst with over 1 year of experience working in the field of IT and Data analytics, providing valuable expertise to start-up businesses."
   button:
     enable : true
     label : "know more"
