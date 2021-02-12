@@ -28,7 +28,7 @@ skill:
       progress : "80%"
       color : "#bdecf6"
       
-    - title : "Web App"
+    - title : "Power BI"
       progress : "70%"
       color : "#ffbcaa"
 
